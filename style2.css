@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+aside{
+    margin-top: 40px;
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 50px;
+}
+
+
+article img{
+    margin-top: 30px;
+    width: 40vw;
+}
